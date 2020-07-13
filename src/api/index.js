@@ -1,4 +1,4 @@
-const BASE_URL = "http://demo3136867.mockable.io";
+const BASE_URL = "https://demo3136867.mockable.io";
 
 const getPopular = () => {
   return fetch(`${BASE_URL}/carousel`)
